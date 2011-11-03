@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Buidling.png</Source>
+      <Name>Sprites\Buidling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Buidling.xnb</Output>
+      <Time>2010-09-25T15:05:55.094-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Buidling2.png</Source>
+      <Name>Sprites\Buidling2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Buidling2.xnb</Output>
+      <Time>2010-09-25T15:05:52.569-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Buidling3.png</Source>
+      <Name>Sprites\Buidling3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Buidling3.xnb</Output>
+      <Time>2010-09-25T15:05:49.293-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Zombie.bmp</Source>
+      <Name>Sprites\Zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Zombie.xnb</Output>
+      <Time>2010-09-29T22:35:04.324-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Meteor.png</Source>
+      <Name>Sprites\Meteor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Meteor.xnb</Output>
+      <Time>2010-09-30T21:24:31.2666117-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Horse.png</Source>
+      <Name>Sprites\Horse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Horse.xnb</Output>
+      <Time>2010-10-02T13:30:42.9-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Missle.png</Source>
+      <Name>Sprites\Missle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Missle.xnb</Output>
+      <Time>2010-10-02T18:25:40.934-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GlassFragment.png</Source>
+      <Name>Sprites\GlassFragment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\GlassFragment.xnb</Output>
+      <Time>2010-11-02T22:12:13.8092222-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BuildingFragment.png</Source>
+      <Name>Sprites\BuildingFragment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\BuildingFragment.xnb</Output>
+      <Time>2010-10-18T00:21:17.0043063-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bird.png</Source>
+      <Name>Sprites\Bird</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Bird.xnb</Output>
+      <Time>2010-10-18T19:55:09.9260551-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\CityScape.png</Source>
+      <Name>Sprites\CityScape</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\CityScape.xnb</Output>
+      <Time>2010-10-18T22:27:32.7020551-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Rectangle.png</Source>
+      <Name>Sprites\Rectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Rectangle.xnb</Output>
+      <Time>2010-10-19T20:15:43.6352272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Loonie.png</Source>
+      <Name>Sprites\Loonie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Loonie.xnb</Output>
+      <Time>2010-10-19T21:22:17.1312272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Toonie.png</Source>
+      <Name>Sprites\Toonie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Toonie.xnb</Output>
+      <Time>2010-10-19T21:58:48.6772272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LargeGradientFont.png</Source>
+      <Name>Sprites\LargeGradientFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 0</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\LargeGradientFont.xnb</Output>
+      <Time>2010-10-25T22:05:37.819-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UFO.png</Source>
+      <Name>Sprites\UFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\UFO.xnb</Output>
+      <Time>2010-11-02T22:37:28.0862222-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Shot.png</Source>
+      <Name>Sprites\Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Shot.xnb</Output>
+      <Time>2010-12-06T22:56:36.345-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BuildingBlocks.png</Source>
+      <Name>Sprites\BuildingBlocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\BuildingBlocks.xnb</Output>
+      <Time>2010-11-25T19:51:43.186-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Crane.png</Source>
+      <Name>Sprites\Crane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Crane.xnb</Output>
+      <Time>2010-11-04T22:08:30.101-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tower.png</Source>
+      <Name>Sprites\Tower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Tower.xnb</Output>
+      <Time>2010-11-06T19:31:55.623-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WaterTower.png</Source>
+      <Name>Sprites\WaterTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\WaterTower.xnb</Output>
+      <Time>2010-11-06T20:27:49.205-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BlackBar.png</Source>
+      <Name>Sprites\BlackBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\BlackBar.xnb</Output>
+      <Time>2010-11-16T21:41:11.733-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky.png</Source>
+      <Name>Sprites\Sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Sky.xnb</Output>
+      <Time>2010-12-06T22:08:47.9-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Cloud.png</Source>
+      <Name>Sprites\Cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Cloud.xnb</Output>
+      <Time>2010-12-05T23:19:14.9640011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Doom.png</Source>
+      <Name>Sprites\Doom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Doom.xnb</Output>
+      <Time>2010-11-07T17:42:52.339-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bars.png</Source>
+      <Name>Sprites\Bars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Bars.xnb</Output>
+      <Time>2010-11-10T21:59:14.743-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky2.png</Source>
+      <Name>Sprites\Sky2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Sky2.xnb</Output>
+      <Time>2010-12-06T22:45:57.704-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky3.png</Source>
+      <Name>Sprites\Sky3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Sky3.xnb</Output>
+      <Time>2010-12-06T22:46:27.322-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky4.png</Source>
+      <Name>Sprites\Sky4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Sky4.xnb</Output>
+      <Time>2010-12-06T22:46:57.934-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky5.png</Source>
+      <Name>Sprites\Sky5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Sky5.xnb</Output>
+      <Time>2010-12-06T22:47:10.243-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\StartBackground.png</Source>
+      <Name>Sprites\StartBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\StartBackground.xnb</Output>
+      <Time>2010-11-21T12:36:22.82-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LightPost.png</Source>
+      <Name>Sprites\LightPost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\LightPost.xnb</Output>
+      <Time>2010-11-26T10:23:32.764-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\vehicle0.png</Source>
+      <Name>Sprites\vehicle0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\vehicle0.xnb</Output>
+      <Time>2010-11-26T11:06:53.683-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\vehicle1.png</Source>
+      <Name>Sprites\vehicle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\vehicle1.xnb</Output>
+      <Time>2010-11-26T11:07:56.57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\vehicle2.png</Source>
+      <Name>Sprites\vehicle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\vehicle2.xnb</Output>
+      <Time>2010-11-26T11:11:23.564-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\DeadScreen.png</Source>
+      <Name>Sprites\DeadScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\DeadScreen.xnb</Output>
+      <Time>2010-12-01T21:24:54.6456113-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\attackship.png</Source>
+      <Name>Sprites\attackship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\attackship.xnb</Output>
+      <Time>2010-12-05T02:51:05.2850011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jet.png</Source>
+      <Name>Sprites\Jet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Jet.xnb</Output>
+      <Time>2010-12-05T02:50:37.0310011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Plane.png</Source>
+      <Name>Sprites\Plane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Plane.xnb</Output>
+      <Time>2010-12-05T03:04:50.4030011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SmallSmoke.png</Source>
+      <Name>Sprites\SmallSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\SmallSmoke.xnb</Output>
+      <Time>2010-12-05T02:46:17.4630011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\JetBlast.png</Source>
+      <Name>Sprites\JetBlast</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\JetBlast.xnb</Output>
+      <Time>2010-12-05T14:51:32.2600011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\JetStream.png</Source>
+      <Name>Sprites\JetStream</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\JetStream.xnb</Output>
+      <Time>2010-12-05T15:38:39.5390011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\DustCloud.png</Source>
+      <Name>Sprites\DustCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\DustCloud.xnb</Output>
+      <Time>2010-12-05T16:31:50.7070011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MeteorSmoke.png</Source>
+      <Name>Sprites\MeteorSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\MeteorSmoke.xnb</Output>
+      <Time>2010-12-05T17:02:54.3890011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Fire.png</Source>
+      <Name>Sprites\Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Fire.xnb</Output>
+      <Time>2010-12-05T21:21:10.9460011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Cloud2.png</Source>
+      <Name>Sprites\Cloud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Cloud2.xnb</Output>
+      <Time>2010-12-05T23:13:47.4260011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Absorb.png</Source>
+      <Name>Sprites\Absorb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Absorb.xnb</Output>
+      <Time>2010-12-07T14:57:29.056-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\46 - Escape the Halberd.mp3</Source>
+      <Name>Music\Escape</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Music\Escape.xnb</Output>
+      <Extra>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Music\Escape.wma</Extra>
+      <Time>2010-09-26T17:58:47.597-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SpriteFont.spritefont</Source>
+      <Name>Sprites\FIPPS</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\FIPPS.xnb</Output>
+      <Time>2010-11-06T20:18:30.879-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mo4b.spritefont</Source>
+      <Name>Sprites\mo4b</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\mo4b.xnb</Output>
+      <Time>2010-10-21T00:06:39.9730001-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Glare.fx</Source>
+      <Name>Glare</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Glare.xnb</Output>
+      <Time>2010-11-01T22:43:37.738-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effect1.fx</Source>
+      <Name>Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Effect1.xnb</Output>
+      <Time>2010-10-26T22:58:43.35-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\GlassShatter.wav</Source>
+      <Name>Sound\GlassShatter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\GlassShatter.xnb</Output>
+      <Time>2010-11-26T13:08:12.198-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\NormalFootstep.wav</Source>
+      <Name>Sound\NormalFootstep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\NormalFootstep.xnb</Output>
+      <Time>2010-11-28T18:34:19.991-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\BuildingHit.wav</Source>
+      <Name>Sound\BuildingHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\BuildingHit.xnb</Output>
+      <Time>2010-11-28T20:26:16.66-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\LaserCharge.wav</Source>
+      <Name>Sound\LaserCharge</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\LaserCharge.xnb</Output>
+      <Time>2010-11-26T14:23:59.96-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\LaserFire.wav</Source>
+      <Name>Sound\LaserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\LaserFire.xnb</Output>
+      <Time>2010-11-26T14:26:39.647-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\ConcreteFootstep.wav</Source>
+      <Name>Sound\ConcreteFootstep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\ConcreteFootstep.xnb</Output>
+      <Time>2010-11-28T18:45:39.508-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\JetEngine.wav</Source>
+      <Name>Sound\JetEngine</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\JetEngine.xnb</Output>
+      <Time>2010-11-28T19:28:47.11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\MetalStep3.wav</Source>
+      <Name>Sound\MetalStep3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\MetalStep3.xnb</Output>
+      <Time>2010-11-28T20:22:07.013-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\MeteorImpact.wav</Source>
+      <Name>Sound\MeteorImpact</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\MeteorImpact.xnb</Output>
+      <Time>2010-11-28T23:00:15.02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bombfall.wav</Source>
+      <Name>Sound\bombfall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sound\bombfall.xnb</Output>
+      <Time>2010-11-28T23:28:17.88-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RunSavedInfo.xml</Source>
+      <Name>RunSavedInfo</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\RunSavedInfo.xnb</Output>
+      <Time>2010-12-12T14:00:48.389-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sean.png</Source>
+      <Name>Sprites\Sean</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\Sprites\Sean.xnb</Output>
+      <Time>2010-12-29T18:47:22.127-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\Content\obj\Xbox 360\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\Xbox 360\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-11-01T14:34:37.795-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

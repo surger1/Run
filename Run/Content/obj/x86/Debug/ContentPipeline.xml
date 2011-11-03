@@ -1,0 +1,610 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Sean.bmp</Source>
+      <Name>Sprites\Sean</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Sean.xnb</Output>
+      <Time>2010-09-18T20:49:46.7036518-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Buidling.png</Source>
+      <Name>Sprites\Buidling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Buidling.xnb</Output>
+      <Time>2010-09-25T15:05:55.094-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Buidling2.png</Source>
+      <Name>Sprites\Buidling2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Buidling2.xnb</Output>
+      <Time>2010-09-25T15:05:52.569-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Buidling3.png</Source>
+      <Name>Sprites\Buidling3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Buidling3.xnb</Output>
+      <Time>2010-09-25T15:05:49.293-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\46 - Escape the Halberd.mp3</Source>
+      <Name>Music\Escape</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Music\Escape.xnb</Output>
+      <Extra>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Music\Escape.wma</Extra>
+      <Time>2010-09-26T17:58:47.597-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Zombie.bmp</Source>
+      <Name>Sprites\Zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Zombie.xnb</Output>
+      <Time>2010-09-29T22:35:04.324-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Meteor.png</Source>
+      <Name>Sprites\Meteor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Meteor.xnb</Output>
+      <Time>2010-09-30T21:24:31.2666117-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Horse.png</Source>
+      <Name>Sprites\Horse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Horse.xnb</Output>
+      <Time>2010-10-02T13:30:42.9-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Missle.png</Source>
+      <Name>Sprites\Missle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Missle.xnb</Output>
+      <Time>2010-10-02T18:25:40.934-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GlassFragment.png</Source>
+      <Name>Sprites\GlassFragment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\GlassFragment.xnb</Output>
+      <Time>2010-11-02T22:12:13.8092222-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BuildingFragment.png</Source>
+      <Name>Sprites\BuildingFragment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\BuildingFragment.xnb</Output>
+      <Time>2010-10-18T00:21:17.0043063-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SpriteFont.spritefont</Source>
+      <Name>Sprites\FIPPS</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\FIPPS.xnb</Output>
+      <Time>2010-11-06T20:18:30.879-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mo4b.spritefont</Source>
+      <Name>Sprites\mo4b</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\mo4b.xnb</Output>
+      <Time>2010-10-21T00:06:39.9730001-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bird.png</Source>
+      <Name>Sprites\Bird</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Bird.xnb</Output>
+      <Time>2010-10-18T19:55:09.9260551-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\CityScape.png</Source>
+      <Name>Sprites\CityScape</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\CityScape.xnb</Output>
+      <Time>2010-10-18T22:27:32.7020551-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Rectangle.png</Source>
+      <Name>Sprites\Rectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Rectangle.xnb</Output>
+      <Time>2010-10-19T20:15:43.6352272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Loonie.png</Source>
+      <Name>Sprites\Loonie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Loonie.xnb</Output>
+      <Time>2010-10-19T21:22:17.1312272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Toonie.png</Source>
+      <Name>Sprites\Toonie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Toonie.xnb</Output>
+      <Time>2010-10-19T21:58:48.6772272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LargeGradientFont.png</Source>
+      <Name>Sprites\LargeGradientFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 0</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\LargeGradientFont.xnb</Output>
+      <Time>2010-10-25T22:05:37.819-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Glare.fx</Source>
+      <Name>Glare</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Glare.xnb</Output>
+      <Time>2010-11-01T22:43:37.738-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effect1.fx</Source>
+      <Name>Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Effect1.xnb</Output>
+      <Time>2010-10-26T22:58:43.35-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UFO.png</Source>
+      <Name>Sprites\UFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\UFO.xnb</Output>
+      <Time>2010-11-02T22:37:28.0862222-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Shot.png</Source>
+      <Name>Sprites\Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Shot.xnb</Output>
+      <Time>2010-11-03T21:41:57.236-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BuildingBlocks.png</Source>
+      <Name>Sprites\BuildingBlocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\BuildingBlocks.xnb</Output>
+      <Time>2010-11-25T19:51:43.186-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Crane.png</Source>
+      <Name>Sprites\Crane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Crane.xnb</Output>
+      <Time>2010-11-04T22:08:30.101-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tower.png</Source>
+      <Name>Sprites\Tower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Tower.xnb</Output>
+      <Time>2010-11-06T19:31:55.623-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WaterTower.png</Source>
+      <Name>Sprites\WaterTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\WaterTower.xnb</Output>
+      <Time>2010-11-06T20:27:49.205-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BlackBar.png</Source>
+      <Name>Sprites\BlackBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\BlackBar.xnb</Output>
+      <Time>2010-11-16T21:41:11.733-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky.png</Source>
+      <Name>Sprites\Sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Sky.xnb</Output>
+      <Time>2010-11-07T15:37:58.092-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Cloud.png</Source>
+      <Name>Sprites\Cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Cloud.xnb</Output>
+      <Time>2010-11-07T17:01:17.296-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Doom.png</Source>
+      <Name>Sprites\Doom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Doom.xnb</Output>
+      <Time>2010-11-07T17:42:52.339-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bars.png</Source>
+      <Name>Sprites\Bars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Bars.xnb</Output>
+      <Time>2010-11-10T21:59:14.743-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky2.png</Source>
+      <Name>Sprites\Sky2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Sky2.xnb</Output>
+      <Time>2010-11-14T22:46:59.778-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky3.png</Source>
+      <Name>Sprites\Sky3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Sky3.xnb</Output>
+      <Time>2010-11-14T22:57:25.16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky4.png</Source>
+      <Name>Sprites\Sky4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Sky4.xnb</Output>
+      <Time>2010-11-14T23:00:14.556-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sky5.png</Source>
+      <Name>Sprites\Sky5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Sky5.xnb</Output>
+      <Time>2010-11-14T22:58:46.198-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\StartBackground.png</Source>
+      <Name>Sprites\StartBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\StartBackground.xnb</Output>
+      <Time>2010-11-21T12:36:22.82-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\LightPost.png</Source>
+      <Name>Sprites\LightPost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\LightPost.xnb</Output>
+      <Time>2010-11-26T10:23:32.764-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\vehicle0.png</Source>
+      <Name>Sprites\vehicle0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\vehicle0.xnb</Output>
+      <Time>2010-11-26T11:06:53.683-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\vehicle1.png</Source>
+      <Name>Sprites\vehicle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\vehicle1.xnb</Output>
+      <Time>2010-11-26T11:07:56.57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\vehicle2.png</Source>
+      <Name>Sprites\vehicle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\vehicle2.xnb</Output>
+      <Time>2010-11-26T11:11:23.564-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\MetalStep2.wav</Source>
+      <Name>Sound\MetalStep2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\MetalStep2.xnb</Output>
+      <Time>2010-11-26T13:21:01.928-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\GlassShatter.wav</Source>
+      <Name>Sound\GlassShatter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\GlassShatter.xnb</Output>
+      <Time>2010-11-26T13:08:12.198-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\MetalStep1.wav</Source>
+      <Name>Sound\MetalStep1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\MetalStep1.xnb</Output>
+      <Time>2010-11-26T13:23:09.935-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\NormalFootstep.wav</Source>
+      <Name>Sound\NormalFootstep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\NormalFootstep.xnb</Output>
+      <Time>2010-11-28T18:34:19.991-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\BuildingHit.wav</Source>
+      <Name>Sound\BuildingHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\BuildingHit.xnb</Output>
+      <Time>2010-11-28T20:26:16.66-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\LaserCharge.wav</Source>
+      <Name>Sound\LaserCharge</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\LaserCharge.xnb</Output>
+      <Time>2010-11-26T14:23:59.96-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\LaserFire.wav</Source>
+      <Name>Sound\LaserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\LaserFire.xnb</Output>
+      <Time>2010-11-26T14:26:39.647-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\ConcreteFootstep.wav</Source>
+      <Name>Sound\ConcreteFootstep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\ConcreteFootstep.xnb</Output>
+      <Time>2010-11-28T18:45:39.508-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\JetEngine.wav</Source>
+      <Name>Sound\JetEngine</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\JetEngine.xnb</Output>
+      <Time>2010-11-28T19:28:47.11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\MetalStep3.wav</Source>
+      <Name>Sound\MetalStep3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\MetalStep3.xnb</Output>
+      <Time>2010-11-28T20:22:07.013-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\MeteorImpact.wav</Source>
+      <Name>Sound\MeteorImpact</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\MeteorImpact.xnb</Output>
+      <Time>2010-11-28T23:00:15.02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bombfall.wav</Source>
+      <Name>Sound\bombfall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sound\bombfall.xnb</Output>
+      <Time>2010-11-28T23:28:17.88-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\DeadScreen.png</Source>
+      <Name>Sprites\DeadScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\DeadScreen.xnb</Output>
+      <Time>2010-12-01T21:24:54.6456113-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\attackship.png</Source>
+      <Name>Sprites\attackship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\attackship.xnb</Output>
+      <Time>2010-12-05T02:51:05.2850011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Jet.png</Source>
+      <Name>Sprites\Jet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Jet.xnb</Output>
+      <Time>2010-12-05T02:50:37.0310011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Plane.png</Source>
+      <Name>Sprites\Plane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\Plane.xnb</Output>
+      <Time>2010-12-05T03:04:50.4030011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SmallSmoke.png</Source>
+      <Name>Sprites\SmallSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\Sprites\SmallSmoke.xnb</Output>
+      <Time>2010-12-05T02:46:17.4630011-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Shane\Documents\Visual Studio 2008\Projects\Run\Run\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-11-01T14:34:37.795-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
